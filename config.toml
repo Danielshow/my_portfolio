@@ -16,6 +16,8 @@ paginate = 5
   # show selector to switch language
   showLanguageSelector = false
 
+  disqusShortname = "portfolio-9y8bhrn860"
+
   # set theme to full screen width
   fullWidthTheme = false
 
