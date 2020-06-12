@@ -2,6 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
+DisqusShortname = "portfolio-9y8bhrn860"
 
 [params]
   # dir name of your blog content (default is `content/posts`)
@@ -15,8 +16,6 @@ paginate = 5
 
   # show selector to switch language
   showLanguageSelector = false
-
-  disqusShortname = "portfolio-9y8bhrn860"
 
   # set theme to full screen width
   fullWidthTheme = false
