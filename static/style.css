@@ -1,0 +1,10 @@
+.footer .copyright span {
+    display: none;
+}
+
+.footer__inner{
+    justify-content: center;
+}
+.footer .copyright::after {
+    content: "Built with Hugo"
+}
