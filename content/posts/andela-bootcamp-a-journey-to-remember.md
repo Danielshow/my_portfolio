@@ -1,6 +1,6 @@
 +++
 title = "Andela Bootcamp — A Journey to Remember"
-date = "2019-10-02"
+date = "2018-10-02"
 author = "Daniel Shotonwa"
 authorTwitter = "dshow_World" #do not include @
 cover = ""
