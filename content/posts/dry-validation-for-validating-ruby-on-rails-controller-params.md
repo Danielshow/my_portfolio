@@ -12,7 +12,7 @@ showFullContent = false
 
 >  I have being using Joi Validation for almost all my node project, getting to Rails, I am not always happy with how I validate writing different functions to validate request and sometimnes, it makes my controller bloated. I am not always happy about this, little did I know there is a gem for that. 
 
-In all my Node APIs, I usually create schema, add the schema to the middleware, to validate incoming requests and throws error if some rules are not followed. The good thing about Joi is that it has lot of functions to vakidate if something is a number, string etc.
+In all my Node APIs, I usually create schema, add the schema to the middleware, to validate incoming requests and throws error if some rules are not followed. The good thing about Joi is that it has lot of functions to validate if something is a number, string etc.
 
 I have been looking for a rails version of JOI but I have not been able to get, until today I was reading an article on Microservice in rails and a gem was mentioned which I check out and viola!! it has all what I need.
 
