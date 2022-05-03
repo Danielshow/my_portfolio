@@ -20,3 +20,4 @@ You are surprised right???? This is the best bootcamp I have seen so far
 So to be among the elite developers, I learn various tools like Git, Github, Pivotal Tracker, Node and various modules. You might be thinking how I learnt all this, commitment and growth mindset which I imbibed kept me going and the notch for learning new things make it easy.
 
 [Read More on Medium](https://medium.com/@danielshotonwa53/the-technology-i-wish-i-could-have-known-earlier-aa0446f16995)
+[Buy me a Coffee](https://www.buymeacoffee.com/danielshow)
