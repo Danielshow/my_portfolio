@@ -36,3 +36,4 @@ $ vim ~/.bashrc
 ```
 
 After that, close your terminal and open it. Enjoy your super cool terminal.
+[Buy me a Coffee](https://www.buymeacoffee.com/danielshow)
