@@ -79,4 +79,5 @@ end
 
 Thats all, it makes the controller lean and has a railsey way of doing things. I love Rails. 
 If you have a question, you can reach me on github. [danielshow](https://github.com/Danielshow)
-[Buy me a Coffee](https://www.buymeacoffee.com/danielshow)
+
+#### [Buy me a Coffee](https://www.buymeacoffee.com/danielshow)
