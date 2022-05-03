@@ -171,3 +171,4 @@ That's all, you can add edit action, delete and others.
 If you need the boilerplate that contains all this, head over to this repository and clone it. https://github.com/Danielshow/action-text-tutorial
 
 I am Danielshow. 🕺🏽👻
+[Buy me a Coffee](https://www.buymeacoffee.com/danielshow)
