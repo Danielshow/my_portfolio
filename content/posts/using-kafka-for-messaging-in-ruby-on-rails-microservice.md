@@ -12,9 +12,9 @@ showFullContent = false
 
 > In my company, we decided to make use of microservice and move some of our modules into services. We wanted to do it the right way so we formulated three rules
 - Each service should not be dependent on another service. When one service fails, user should still be able to use the platform
-- Each service should have its own database, we should not care about duplication.
+- Each service should have its own database, we do not care about duplication.
 - Any communication should be via Event and it should be non-blocking.
-> I will write an article on how we successfully set the micorservice up later.
+> I will write an article on how we successfully set up the codebase later.
 
 We have been using Redis [PubSub](https://redis.io/topics/pubsub) for a while for real time communication and we decided to use it again as a messaging tool to update a service database when a user is created on another database. Sound fair right. It was working as it should but Redis does not persist data, it is an instore database. What if the service is down at the moment and is unable to receive the event, does that mean, our database will not be updated? What if we spin up a new database that needs all the user on our platform, are we going to copy all the data into that new database or is there a way to reply all the events that has been sent. 
 
