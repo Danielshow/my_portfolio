@@ -113,4 +113,4 @@ end
 That's all, you can now publish and subscribe to an event using Kafka and rails.
 If you have a question, you can reach me on github. [danielshow](https://github.com/Danielshow)
 
-[Buy me a Coffee](https://www.buymeacoffee.com/danielshow)
+#### [Buy me a Coffee](https://www.buymeacoffee.com/danielshow)
