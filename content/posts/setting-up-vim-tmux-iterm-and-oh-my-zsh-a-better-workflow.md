@@ -132,4 +132,4 @@ Run PluginInstall again and all should be fine.
 Enjoy your super terminal 🎉.
 If you face any error, you can reach out to me via twitter, I'll be willing to help.
 
-[Buy me a Coffee](https://www.buymeacoffee.com/danielshow)
+#### [Buy me a Coffee](https://www.buymeacoffee.com/danielshow)
