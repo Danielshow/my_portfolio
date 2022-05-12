@@ -19,7 +19,7 @@ author = "Daniel Shotonwa"
 ### Contact Me
 {{< fa envelope >}}: Danielshotonwa53@gmail.com
 
-[{{< fa github 2x >}}](https://gitub.com/danielshow) &nbsp; [{{< fa linkedin 2x >}}](https://www.linkedin.com/in/shotonwa-daniel-aa8190125/)  &nbsp; [{{< fa twitter 2x >}}](
+[{{< fa github 2x >}}](https://github.com/danielshow) &nbsp; [{{< fa linkedin 2x >}}](https://www.linkedin.com/in/shotonwa-daniel-aa8190125/)  &nbsp; [{{< fa twitter 2x >}}](
 https://twitter.com/d_showWorld)
 
 ##### {{< fa file >}} [Resume](https://drive.google.com/file/d/1yuOj22f0CLTUW2qhBWgEbLG3OgOxg6jO/view?usp=sharing)
